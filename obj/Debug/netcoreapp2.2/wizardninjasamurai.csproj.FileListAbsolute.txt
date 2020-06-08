@@ -1,0 +1,11 @@
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\wizardninjasamurai\bin\Debug\netcoreapp2.2\wizardninjasamurai.deps.json
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\wizardninjasamurai\bin\Debug\netcoreapp2.2\wizardninjasamurai.runtimeconfig.json
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\wizardninjasamurai\bin\Debug\netcoreapp2.2\wizardninjasamurai.runtimeconfig.dev.json
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\wizardninjasamurai\bin\Debug\netcoreapp2.2\wizardninjasamurai.dll
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\wizardninjasamurai\bin\Debug\netcoreapp2.2\wizardninjasamurai.pdb
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\wizardninjasamurai\obj\Debug\netcoreapp2.2\wizardninjasamurai.csprojAssemblyReference.cache
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\wizardninjasamurai\obj\Debug\netcoreapp2.2\wizardninjasamurai.csproj.CoreCompileInputs.cache
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\wizardninjasamurai\obj\Debug\netcoreapp2.2\wizardninjasamurai.AssemblyInfoInputs.cache
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\wizardninjasamurai\obj\Debug\netcoreapp2.2\wizardninjasamurai.AssemblyInfo.cs
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\wizardninjasamurai\obj\Debug\netcoreapp2.2\wizardninjasamurai.dll
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\wizardninjasamurai\obj\Debug\netcoreapp2.2\wizardninjasamurai.pdb
